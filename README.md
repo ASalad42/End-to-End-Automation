@@ -25,3 +25,24 @@ Research:
 Principles:
 - Apply OOP
 - DRY
+
+
+# Project: Exam Platform 
+
+## Run App
+
+
+## Description 
+
+## Users Story 
+
+Informal, natural language description of features of a software system (my project). Written from the perspective of an end user or user of a system (i.e what the user can to do with application)
+
+### Admin 
+
+### Teacher 
+
+### Student 
+
+## Application Features 
+
