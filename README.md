@@ -1,5 +1,7 @@
 # End to End Automation
 
+## Plan 
+
 Draw FIRST (create scrum board, draw diagram, daily sprint)
 
 Phase 1: (Friday till development bit: push from lh, triggers webhook, deployment)
@@ -46,3 +48,10 @@ Informal, natural language description of features of a software system (my proj
 
 ## Application Features 
 
+### Login 
+
+### user data (database)
+
+### User screens 
+
+### Test bank (database) 
